@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/qpBS2rBRn6QiedyfGj/giphy.gif?cid=ecf05e474yxcbhyhh1nyj1o0uhq576vqe7kd727gc1mfiknl&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<img src="https://media.giphy.com/media/qpBS2rBRn6QiedyfGj/giphy.gif?cid=ecf05e474yxcbhyhh1nyj1o0uhq576vqe7kd727gc1mfiknl&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" width="100%">
 <h1 align="center">Hello there! 👋 I'm Sinal Brecihe!</h1>
 <h3 align="center">Learning, Building, and Sharing 🚀</h3>
 
