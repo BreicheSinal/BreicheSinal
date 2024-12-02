@@ -1,8 +1,8 @@
+[![MaterHead](<img align="right" width="400" scr="https://i.pinimg.com/originals/de/3e/0c/de3e0c5a739a8eaa285ed01d9f15d2e3.gif"/>
+)
 <h1 align="center">Hi 👋, I'm Sinal Brecihe!</h1>
 <h3 align="center">Learning, Building, and Sharing</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=breichesinal" alt="breichesinal" /></a> </p>
-
+<img align="right" width="400" scr="https://i.pinimg.com/originals/de/3e/0c/de3e0c5a739a8eaa285ed01d9f15d2e3.gif"/>
 - 📫 How to reach me **sinalbreiche@gmail.com**
 
 - ⚡ Fun fact **Fueled by Curiosity 🔍 and a Passion for Innovation**
