@@ -1,8 +1,7 @@
-[![MaterHead](<img align="right" width="400" scr="https://i.pinimg.com/originals/de/3e/0c/de3e0c5a739a8eaa285ed01d9f15d2e3.gif"/>
-)
+[![MasterHead]([https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif](https://i.pinimg.com/originals/de/3e/0c/de3e0c5a739a8eaa285ed01d9f15d2e3.gif))])]
 <h1 align="center">Hi 👋, I'm Sinal Brecihe!</h1>
 <h3 align="center">Learning, Building, and Sharing</h3>
-<img align="right" width="400" scr="https://i.pinimg.com/originals/de/3e/0c/de3e0c5a739a8eaa285ed01d9f15d2e3.gif"/>
+<img align="right" width="400" scr="https://i.pinimg.com/originals/de/3e/0c/de3e0c5a739a8eaa285ed01d9f15d2e3.gif">
 - 📫 How to reach me **sinalbreiche@gmail.com**
 
 - ⚡ Fun fact **Fueled by Curiosity 🔍 and a Passion for Innovation**
