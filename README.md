@@ -1,13 +1,20 @@
-[![MasterHead]([https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif](https://i.pinimg.com/originals/de/3e/0c/de3e0c5a739a8eaa285ed01d9f15d2e3.gif))])]
-<h1 align="center">Hi 👋, I'm Sinal Brecihe!</h1>
-<h3 align="center">Learning, Building, and Sharing</h3>
-<img align="right" width="400" scr="https://i.pinimg.com/originals/de/3e/0c/de3e0c5a739a8eaa285ed01d9f15d2e3.gif">
+![MasterHead](https://media.giphy.com/media/qpBS2rBRn6QiedyfGj/giphy.gif?cid=ecf05e474yxcbhyhh1nyj1o0uhq576vqe7kd727gc1mfiknl&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<h1 align="center">Hello there! 👋 I'm Sinal Brecihe!</h1>
+<h3 align="center">Learning, Building, and Sharing 🚀</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=breichesinal&label=Profile%20views&color=0e75b6&style=flat" alt="breichesinal" /> </p>
+
+- 🌱 I’m currently learning **Express (Node.js) 🚉**
+
+- 💬 Ask me anything about **React | Laravel | Unity | Football 😉**
+
 - 📫 How to reach me **sinalbreiche@gmail.com**
 
-- ⚡ Fun fact **Fueled by Curiosity 🔍 and a Passion for Innovation**
+- ⚡ Fun fact **Fueled by Curiosity 🔍 and not coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sinal breiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinal breiche" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
