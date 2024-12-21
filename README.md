@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/qpBS2rBRn6QiedyfGj/giphy.gif?cid=ecf05e474yxcbhyhh1nyj1o0uhq576vqe7kd727gc1mfiknl&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" width="100%">
 <h1 align="center">Hello there! 👋 I'm Sinal Breiche!</h1>
-<h3 align="center">A Full stack developer from 🇱🇧</h3>
+<h3 align="center">A Full Stack Developer from 🇱🇧</h3>
 <h3 align="center">Learning, Building, and Sharing 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breichesinal&label=Profile%20views&color=0e75b6&style=flat" alt="breichesinal" /> </p>
