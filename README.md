@@ -3,17 +3,20 @@
 <h1 align="center">Hello there! 👋 I'm Sinal Breiche!</h1>
 <h3 align="center">Full Stack Developer | Tech Explorer 🚀</h3>
 
+[![committers.top badge](https://user-badge.committers.top/lebanon/BreicheSinal.svg)](https://user-badge.committers.top/lebanon/BreicheSinal)
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=breichesinal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 **Currently learning:** <code>Express (Node.js) 🚉</code>
+- 🌱 **Currently learning:** <code> Angular 🚉</code>
 
-- 💬 **Ask me about:** `React`, `Laravel`, `Unity`, `Football 😉`
+- 💬 **Ask me about:** ` React `, ` Laravel `, ` Unity `, ` Football 😉 `
 
-- 📫 **Reach me at:** <code>sinalbreiche@gmail.com</code>
+- 📫 **Reach me at:** <code> sinalbreiche@gmail.com </code>
 
-- ⚡ **Fun fact:** `Fueled by Curiosity 🔍 > Coffee ☕`
+- ⚡ **Fun fact:** ` Fueled by Curiosity 🔍 > Coffee ☕ `
 
 ---
 
