@@ -3,8 +3,10 @@
 <h1 align="center">Hello there! 👋 I'm Sinal Breiche!</h1>
 <h3 align="center">Full Stack Developer | Tech Explorer 🚀</h3>
 
-[![committers.top badge](https://user-badge.committers.top/lebanon/BreicheSinal.svg)](https://user-badge.committers.top/lebanon/BreicheSinal)
+[![committers.top badge](https://user-badge.committers.top/lebanon/BreicheSinal.svg)](https://user-badge.committers.top/lebanon/BreicheSinal) 
+
 [![committers.top badge](https://user-badge.committers.top/lebanon_public/BreicheSinal.svg)](https://user-badge.committers.top/lebanon_public/BreicheSinal)
+
 [![committers.top badge](https://user-badge.committers.top/lebanon_private/BreicheSinal.svg)](https://user-badge.committers.top/lebanon_private/BreicheSinal)
 
 
